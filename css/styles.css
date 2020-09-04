@@ -1,0 +1,40 @@
+h1 {
+  font-size:5rem;
+  font-family: 'Sacramento', cursive;
+  margin:24px auto;
+    color: #66BFBF;
+}
+.top {
+  background-color: #EAF6F5;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+
+hr {
+  border-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 7%;
+  margin:17px auto;
+}
+
+p {
+  font-family: 'EB Garamond', serif;
+  font-size: 18px;
+  line-height: 2;
+}
+
+h2 {
+  margin: 20px 0;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+.abc {
+  font-size: 10px;
+}
